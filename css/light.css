@@ -1,0 +1,13 @@
+:root {
+  --lightGray-MainBg: hsl(0, 0%, 90%);
+  --grayishRed-ToggleBgKeypadBg: hsl(0, 5%, 81%);
+  --veryLightGray-ScreebBg: hsl(0, 0%, 93%);
+  --darkModerateCyan-KeyBg: hsl(185, 42%, 37%);
+  --veryDarkCyan-keyShadow: hsl(185, 58%, 25%);
+  --orange-keyBgToggle: hsl(25, 98%, 40%);
+  --darkOrange-keyShadow: hsl(25, 99%, 27%);
+  --lightGrayishYellow-keyBg: hsl(45, 7%, 89%);
+  --darkGrayishOrange-keyShadow: hsl(35, 11%, 61%);
+  --veryDarkGrayishYellow-Text: hsl(60, 10%, 19%);
+  --white-Text: hsl(0, 0%, 100%);
+}

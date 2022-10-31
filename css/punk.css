@@ -1,0 +1,13 @@
+:root {
+  --veryDarkViolet-MainBg: hsl(268, 75%, 9%);
+  --veryDarkViolet-ToggleBgKeypadBgScreenBg: hsl(268, 71%, 12%);
+  --darkViolet-KeyBg: hsl(281, 89%, 26%);
+  --vividMagenta-KeyShadow: hsl(285, 91%, 52%);
+  --pureCyan-KeyBgToggle: hsl(176, 100%, 44%);
+  --softCyan-KeyShadow: hsl(177, 92%, 70%);
+  --veryDarkViolet-KeyBg: hsl(268, 47%, 21%);
+  --darkMagenta-KeyShadow: hsl(290, 70%, 36%);
+  --lightYellow-Text: hsl(52, 100%, 62%);
+  --veryDarkBlue-Text: hsl(198, 20%, 13%);
+  --white-Text: hsl(0, 0%, 100%);
+}
